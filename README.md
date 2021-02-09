@@ -1,0 +1,2 @@
+# react_query_tutorial_with_-useInfiniteQuery_and_json_server
+Project react_query_tutorial_with_ useInfiniteQuery_and_json_server
